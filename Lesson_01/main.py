@@ -1,0 +1,9 @@
+x = 10
+y = 55
+print(f'x = {x}')
+print(f'y = {y}')
+f = 10
+x = y
+y = f
+print(f'x = {x}')
+print(f'y = {y}')
